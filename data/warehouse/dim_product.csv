@@ -1,0 +1,119 @@
+product_sk,product_id,product_name,category,price
+1,P001,Laptop Standard,Electronics,60000
+2,P002,Gaming Laptop Pro,Electronics,95200
+3,P003,Business Laptop Plus,Electronics,74200
+4,P004,Tablet Max,Electronics,29500
+5,P005,Smartphone Standard,Electronics,30000
+6,P006,Smartwatch Pro,Electronics,8950
+7,P007,Wireless Earbuds Plus,Electronics,3700
+8,P008,Bluetooth Speaker Max,Electronics,5900
+9,P009,Monitor Standard,Electronics,18000
+10,P010,Webcam Pro,Electronics,4500
+11,P011,Headphones Plus,Electronics,4750
+12,P012,Router Max,Electronics,4150
+13,P013,WiFi Extender Standard,Electronics,2800
+14,P014,Printer Pro,Electronics,13450
+15,P015,Scanner Plus,Electronics,9550
+16,P016,Projector Max,Electronics,29500
+17,P017,Smart TV Standard,Electronics,45000
+18,P018,Digital Camera Pro,Electronics,61600
+19,P019,Microphone Plus,Electronics,7400
+20,P020,Game Console Max,Electronics,53100
+21,P021,VR Headset Standard,Electronics,35000
+22,P022,Security Camera Pro,Smart Home,6700
+23,P023,Doorbell Camera Plus,Smart Home,8500
+24,P024,Home Speaker Max,Smart Home,8250
+25,P025,Keyboard Standard,Accessories,1200
+26,P026,Mechanical Keyboard Pro,Accessories,5050
+27,P027,Mouse Plus,Accessories,750
+28,P028,Wireless Mouse Max,Accessories,1400
+29,P029,USB Hub Standard,Accessories,1500
+30,P030,External SSD Pro,Accessories,7850
+31,P031,External Hard Drive Plus,Accessories,5850
+32,P032,Pen Drive Max,Accessories,950
+33,P033,Power Bank Standard,Accessories,1800
+34,P034,HDMI Cable Pro,Accessories,550
+35,P035,USB Cable Plus,Accessories,350
+36,P036,Laptop Stand Max,Accessories,1750
+37,P037,Phone Stand Standard,Accessories,600
+38,P038,Power Adapter Pro,Accessories,2000
+39,P039,Tablet Cover Plus,Accessories,950
+40,P040,Phone Cover Max,Accessories,600
+41,P041,Screen Protector Standard,Accessories,300
+42,P042,Tripod Pro,Accessories,2800
+43,P043,Gaming Controller Plus,Accessories,5300
+44,P044,Memory Card Max,Accessories,1400
+45,P045,Camera Bag Standard,Accessories,2200
+46,P046,Ethernet Adapter Pro,Accessories,1100
+47,P047,USB-C Dock Plus,Accessories,6350
+48,P048,Laptop Bag Max,Accessories,2100
+49,P049,Office Chair Standard,Office & Stationery,12000
+50,P050,Desk Lamp Pro,Office & Stationery,2000
+51,P051,Desk Organizer Plus,Office & Stationery,750
+52,P052,Notebook Max,Office & Stationery,250
+53,P053,Pen Set Standard,Office & Stationery,250
+54,P054,Calculator Pro,Office & Stationery,650
+55,P055,Study Lamp Plus,Office & Stationery,1500
+56,P056,Extension Board Max,Office & Stationery,1200
+57,P057,Surge Protector Standard,Office & Stationery,1600
+58,P058,Backpack Pro,Office & Stationery,2800
+59,P059,Air Purifier Plus,Home Appliances,15900
+60,P060,Electric Kettle Max,Home Appliances,2100
+61,P061,Coffee Maker Standard,Home Appliances,5500
+62,P062,Mixer Grinder Pro,Home Appliances,5050
+63,P063,Microwave Oven Plus,Home Appliances,12700
+64,P064,Induction Cooktop Max,Home Appliances,2950
+65,P065,Refrigerator Standard,Home Appliances,55000
+66,P066,Washing Machine Pro,Home Appliances,39200
+67,P067,Vacuum Cleaner Plus,Home Appliances,10600
+68,P068,Iron Max,Home Appliances,2100
+69,P069,Hair Dryer Standard,Home Appliances,2200
+70,P070,Trimmer Pro,Home Appliances,2000
+71,P071,Electric Shaver Plus,Home Appliances,3200
+72,P072,Air Cooler Max,Home Appliances,14150
+73,P073,Room Heater Standard,Home Appliances,3000
+74,P074,Ceiling Fan Pro,Home Appliances,3900
+75,P075,Table Fan Plus,Home Appliances,2350
+76,P076,Fitness Band Max,Fitness & Lifestyle,2950
+77,P077,Water Bottle Standard,Fitness & Lifestyle,700
+78,P078,Travel Mug Pro,Fitness & Lifestyle,1000
+79,P079,Yoga Mat Plus,Fitness & Lifestyle,1250
+80,P080,Dumbbells Max,Fitness & Lifestyle,2950
+81,P081,Resistance Bands Standard,Fitness & Lifestyle,800
+82,P082,Running Shoes Pro,Fitness & Lifestyle,5050
+83,P083,Travel Backpack Plus,Fitness & Lifestyle,3200
+84,P084,Sunglasses Max,Fitness & Lifestyle,1750
+85,P085,Fitness Scale Standard,Fitness & Lifestyle,2500
+86,P086,Digital Weighing Scale Pro,Fitness & Lifestyle,2000
+87,P087,Kitchen Scale Plus,Home Appliances,1250
+88,P088,Digital Watch Max,Fitness & Lifestyle,2350
+89,P089,Alarm Clock Standard,Fitness & Lifestyle,900
+90,P090,Wall Clock Pro,Fitness & Lifestyle,1350
+91,P091,Smart Lock Plus,Smart Home,9550
+92,P092,Smart Plug Max,Smart Home,1400
+93,P093,Smart Light Standard,Smart Home,1500
+94,P094,Streaming Stick Pro,Electronics,5050
+95,P095,Graphics Tablet Plus,Electronics,9550
+96,P096,Gaming Monitor Max,Electronics,33050
+97,P097,Bluetooth Keyboard Standard,Accessories,1800
+98,P098,Wireless Charger Pro,Accessories,1700
+99,P099,Laptop Cooling Pad Plus,Accessories,1900
+100,P100,Cable Organizer Max,Accessories,450
+101,P101,Desk Mat Standard,Office & Stationery,800
+102,P102,File Folder Pro,Office & Stationery,300
+103,P103,Whiteboard Plus,Office & Stationery,1900
+104,P104,Stapler Set Max,Office & Stationery,400
+105,P105,Air Fryer Standard,Home Appliances,8500
+106,P106,Toaster Pro,Home Appliances,2800
+107,P107,Juicer Plus,Home Appliances,4250
+108,P108,Electric Cooker Max,Home Appliances,3550
+109,P109,Smart Door Lock Standard,Smart Home,12000
+110,P110,Smart Motion Sensor Pro,Smart Home,2000
+111,P111,Smart LED Strip Plus,Smart Home,2350
+112,P112,Smart Thermostat Max,Smart Home,7650
+113,P113,Portable SSD Standard,Accessories,8500
+114,P114,USB Microphone Pro,Electronics,6150
+115,P115,Noise Cancelling Headphones Plus,Electronics,9550
+116,P116,Portable Projector Max,Electronics,21250
+117,P117,Action Camera Standard,Electronics,28000
+118,P118,Smart Display Pro,Smart Home,13450

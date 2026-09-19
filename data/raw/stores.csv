@@ -1,0 +1,26 @@
+store_id,store_name,city,state
+S001,Hyderabad Central Store,Hyderabad,Telangana
+S002,Secunderabad Store,Secunderabad,Telangana
+S003,Warangal Store,Warangal,Telangana
+S004,Karimnagar Store,Karimnagar,Telangana
+S005,Nizamabad Store,Nizamabad,Telangana
+S006,Khammam Store,Khammam,Telangana
+S007,Bangalore Central Store,Bangalore,Karnataka
+S008,Mysore Store,Mysore,Karnataka
+S009,Mangalore Store,Mangalore,Karnataka
+S010,Chennai Central Store,Chennai,Tamil Nadu
+S011,Coimbatore Store,Coimbatore,Tamil Nadu
+S012,Vijayawada Store,Vijayawada,Andhra Pradesh
+S013,Visakhapatnam Store,Visakhapatnam,Andhra Pradesh
+S014,Pune Store,Pune,Maharashtra
+S015,Mumbai Central Store,Mumbai,Maharashtra
+S016,Delhi Store,Delhi,Delhi
+S017,Gurugram Store,Gurugram,Haryana
+S018,Kochi Store,Kochi,Kerala
+S019,Jaipur Store,Jaipur,Rajasthan
+S020,Ahmedabad Store,Ahmedabad,Gujarat
+S021,Kolkata Store,Kolkata,West Bengal
+S022,Noida Store,Noida,Uttar Pradesh
+S023,Lucknow Store,Lucknow,Uttar Pradesh
+S024,Bhopal Store,Bhopal,Madhya Pradesh
+S025,Indore Store,Indore,Madhya Pradesh

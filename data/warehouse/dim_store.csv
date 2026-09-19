@@ -1,0 +1,26 @@
+store_sk,store_id,store_name,city,state
+1,S001,Hyderabad Central Store,Hyderabad,Telangana
+2,S002,Secunderabad Store,Secunderabad,Telangana
+3,S003,Warangal Store,Warangal,Telangana
+4,S004,Karimnagar Store,Karimnagar,Telangana
+5,S005,Nizamabad Store,Nizamabad,Telangana
+6,S006,Khammam Store,Khammam,Telangana
+7,S007,Bangalore Central Store,Bangalore,Karnataka
+8,S008,Mysore Store,Mysore,Karnataka
+9,S009,Mangalore Store,Mangalore,Karnataka
+10,S010,Chennai Central Store,Chennai,Tamil Nadu
+11,S011,Coimbatore Store,Coimbatore,Tamil Nadu
+12,S012,Vijayawada Store,Vijayawada,Andhra Pradesh
+13,S013,Visakhapatnam Store,Visakhapatnam,Andhra Pradesh
+14,S014,Pune Store,Pune,Maharashtra
+15,S015,Mumbai Central Store,Mumbai,Maharashtra
+16,S016,Delhi Store,Delhi,Delhi
+17,S017,Gurugram Store,Gurugram,Haryana
+18,S018,Kochi Store,Kochi,Kerala
+19,S019,Jaipur Store,Jaipur,Rajasthan
+20,S020,Ahmedabad Store,Ahmedabad,Gujarat
+21,S021,Kolkata Store,Kolkata,West Bengal
+22,S022,Noida Store,Noida,Uttar Pradesh
+23,S023,Lucknow Store,Lucknow,Uttar Pradesh
+24,S024,Bhopal Store,Bhopal,Madhya Pradesh
+25,S025,Indore Store,Indore,Madhya Pradesh

@@ -1,0 +1,121 @@
+customer_id,customer_name,email,city,state,signup_date
+C001,Aarav Reddy,aarav001@example.com,Mysore,Karnataka,2025-01-14
+C002,Aadhya Sharma,aadhya002@example.com,Mumbai,Maharashtra,2025-01-25
+C003,Abhinav Kumar,abhinav003@example.com,Hyderabad,Telangana,2025-02-05
+C004,Aditya Rao,aditya004@example.com,Mangalore,Karnataka,2025-02-16
+C005,Akash Patel,akash005@example.com,Delhi,Delhi,2025-02-27
+C006,Akshay Verma,akshay006@example.com,Warangal,Telangana,2025-03-10
+C007,Ananya Singh,ananya007@example.com,Chennai,Tamil Nadu,2025-03-21
+C008,Anjali Naidu,anjali008@example.com,Gurugram,Haryana,2025-04-01
+C009,Arjun Iyer,arjun009@example.com,Karimnagar,Telangana,2025-04-12
+C010,Arnav Das,arnav010@example.com,Coimbatore,Tamil Nadu,2025-04-23
+C011,Bhavana Reddy,bhavana011@example.com,Kochi,Kerala,2025-05-04
+C012,Bharat Sharma,bharat012@example.com,Nizamabad,Telangana,2025-05-15
+C013,Charan Kumar,charan013@example.com,Vijayawada,Andhra Pradesh,2025-05-26
+C014,Deepak Rao,deepak014@example.com,Jaipur,Rajasthan,2025-06-06
+C015,Divya Patel,divya015@example.com,Khammam,Telangana,2025-06-17
+C016,Esha Verma,esha016@example.com,Visakhapatnam,Andhra Pradesh,2025-06-28
+C017,Gaurav Singh,gaurav017@example.com,Ahmedabad,Gujarat,2025-07-09
+C018,Harsha Naidu,harsha018@example.com,Bangalore,Karnataka,2025-07-20
+C019,Isha Iyer,isha019@example.com,Pune,Maharashtra,2025-07-31
+C020,Karthik Das,karthik020@example.com,Kolkata,West Bengal,2025-08-11
+C021,Keerthi Reddy,keerthi021@example.com,Mysore,Karnataka,2025-08-22
+C022,Krishna Sharma,krishna022@example.com,Mumbai,Maharashtra,2025-09-02
+C023,Lakshmi Kumar,lakshmi023@example.com,Hyderabad,Telangana,2025-09-13
+C024,Manish Rao,manish024@example.com,Mangalore,Karnataka,2025-09-24
+C025,Meghana Patel,meghana025@example.com,Delhi,Delhi,2025-10-05
+C026,Mohan Verma,mohan026@example.com,Warangal,Telangana,2025-10-16
+C027,Nandini Singh,nandini027@example.com,Chennai,Tamil Nadu,2025-10-27
+C028,Naveen Naidu,naveen028@example.com,Gurugram,Haryana,2025-11-07
+C029,Neha Iyer,neha029@example.com,Karimnagar,Telangana,2025-11-18
+C030,Nikhil Das,nikhil030@example.com,Coimbatore,Tamil Nadu,2025-11-29
+C031,Pooja Reddy,pooja031@example.com,Kochi,Kerala,2025-12-10
+C032,Pranav Sharma,pranav032@example.com,Nizamabad,Telangana,2025-12-21
+C033,Priya Kumar,priya033@example.com,Vijayawada,Andhra Pradesh,2026-01-01
+C034,Rahul Rao,rahul034@example.com,Jaipur,Rajasthan,2026-01-12
+C035,Raj Patel,raj035@example.com,Khammam,Telangana,2026-01-23
+C036,Rakesh Verma,rakesh036@example.com,Visakhapatnam,Andhra Pradesh,2026-02-03
+C037,Ravi Singh,ravi037@example.com,Ahmedabad,Gujarat,2026-02-14
+C038,Rekha Naidu,rekha038@example.com,Bangalore,Karnataka,2026-02-25
+C039,Rohit Iyer,rohit039@example.com,Pune,Maharashtra,2026-03-08
+C040,Sai Das,sai040@example.com,Kolkata,West Bengal,2026-03-19
+C041,Sandeep Reddy,sandeep041@example.com,Mysore,Karnataka,2026-03-30
+C042,Sanjana Sharma,sanjana042@example.com,Mumbai,Maharashtra,2026-04-10
+C043,Shivani Kumar,shivani043@example.com,Hyderabad,Telangana,2026-04-21
+C044,Shreya Rao,shreya044@example.com,Mangalore,Karnataka,2026-05-02
+C045,Siddharth Patel,siddharth045@example.com,Delhi,Delhi,2026-05-13
+C046,Sneha Verma,sneha046@example.com,Warangal,Telangana,2026-05-24
+C047,Srinivas Singh,srinivas047@example.com,Chennai,Tamil Nadu,2026-06-04
+C048,Swathi Naidu,swathi048@example.com,Gurugram,Haryana,2026-06-15
+C049,Tarun Iyer,tarun049@example.com,Karimnagar,Telangana,2026-06-26
+C050,Tejas Das,tejas050@example.com,Coimbatore,Tamil Nadu,2026-07-07
+C051,Uday Reddy,uday051@example.com,Kochi,Kerala,2026-07-18
+C052,Vaishnavi Sharma,vaishnavi052@example.com,Nizamabad,Telangana,2026-07-29
+C053,Varun Kumar,varun053@example.com,Vijayawada,Andhra Pradesh,2026-08-09
+C054,Venkatesh Rao,venkatesh054@example.com,Jaipur,Rajasthan,2026-08-20
+C055,Vijay Patel,vijay055@example.com,Khammam,Telangana,2026-08-31
+C056,Vikram Verma,vikram056@example.com,Visakhapatnam,Andhra Pradesh,2026-09-11
+C057,Vinay Singh,vinay057@example.com,Ahmedabad,Gujarat,2026-09-22
+C058,Yash Naidu,yash058@example.com,Bangalore,Karnataka,2026-10-03
+C059,Zoya Iyer,zoya059@example.com,Pune,Maharashtra,2026-10-14
+C060,Akhila Das,akhila060@example.com,Kolkata,West Bengal,2025-01-13
+C061,Aarav Reddy,aarav061@example.com,Mysore,Karnataka,2025-01-24
+C062,Aadhya Sharma,aadhya062@example.com,Mumbai,Maharashtra,2025-02-04
+C063,Abhinav Kumar,abhinav063@example.com,Hyderabad,Telangana,2025-02-15
+C064,Aditya Rao,aditya064@example.com,Mangalore,Karnataka,2025-02-26
+C065,Akash Patel,akash065@example.com,Delhi,Delhi,2025-03-09
+C066,Akshay Verma,akshay066@example.com,Warangal,Telangana,2025-03-20
+C067,Ananya Singh,ananya067@example.com,Chennai,Tamil Nadu,2025-03-31
+C068,Anjali Naidu,anjali068@example.com,Gurugram,Haryana,2025-04-11
+C069,Arjun Iyer,arjun069@example.com,Karimnagar,Telangana,2025-04-22
+C070,Arnav Das,arnav070@example.com,Coimbatore,Tamil Nadu,2025-05-03
+C071,Bhavana Reddy,bhavana071@example.com,Kochi,Kerala,2025-05-14
+C072,Bharat Sharma,bharat072@example.com,Nizamabad,Telangana,2025-05-25
+C073,Charan Kumar,charan073@example.com,Vijayawada,Andhra Pradesh,2025-06-05
+C074,Deepak Rao,deepak074@example.com,Jaipur,Rajasthan,2025-06-16
+C075,Divya Patel,divya075@example.com,Khammam,Telangana,2025-06-27
+C076,Esha Verma,esha076@example.com,Visakhapatnam,Andhra Pradesh,2025-07-08
+C077,Gaurav Singh,gaurav077@example.com,Ahmedabad,Gujarat,2025-07-19
+C078,Harsha Naidu,harsha078@example.com,Bangalore,Karnataka,2025-07-30
+C079,Isha Iyer,isha079@example.com,Pune,Maharashtra,2025-08-10
+C080,Karthik Das,karthik080@example.com,Kolkata,West Bengal,2025-08-21
+C081,Keerthi Reddy,keerthi081@example.com,Mysore,Karnataka,2025-09-01
+C082,Krishna Sharma,krishna082@example.com,Mumbai,Maharashtra,2025-09-12
+C083,Lakshmi Kumar,lakshmi083@example.com,Hyderabad,Telangana,2025-09-23
+C084,Manish Rao,manish084@example.com,Mangalore,Karnataka,2025-10-04
+C085,Meghana Patel,meghana085@example.com,Delhi,Delhi,2025-10-15
+C086,Mohan Verma,mohan086@example.com,Warangal,Telangana,2025-10-26
+C087,Nandini Singh,nandini087@example.com,Chennai,Tamil Nadu,2025-11-06
+C088,Naveen Naidu,naveen088@example.com,Gurugram,Haryana,2025-11-17
+C089,Neha Iyer,neha089@example.com,Karimnagar,Telangana,2025-11-28
+C090,Nikhil Das,nikhil090@example.com,Coimbatore,Tamil Nadu,2025-12-09
+C091,Pooja Reddy,pooja091@example.com,Kochi,Kerala,2025-12-20
+C092,Pranav Sharma,pranav092@example.com,Nizamabad,Telangana,2025-12-31
+C093,Priya Kumar,priya093@example.com,Vijayawada,Andhra Pradesh,2026-01-11
+C094,Rahul Rao,rahul094@example.com,Jaipur,Rajasthan,2026-01-22
+C095,Raj Patel,raj095@example.com,Khammam,Telangana,2026-02-02
+C096,Rakesh Verma,rakesh096@example.com,Visakhapatnam,Andhra Pradesh,2026-02-13
+C097,Ravi Singh,ravi097@example.com,Ahmedabad,Gujarat,2026-02-24
+C098,Rekha Naidu,rekha098@example.com,Bangalore,Karnataka,2026-03-07
+C099,Rohit Iyer,rohit099@example.com,Pune,Maharashtra,2026-03-18
+C100,Sai Das,sai100@example.com,Kolkata,West Bengal,2026-03-29
+C101,Sandeep Reddy,sandeep101@example.com,Mysore,Karnataka,2026-04-09
+C102,Sanjana Sharma,sanjana102@example.com,Mumbai,Maharashtra,2026-04-20
+C103,Shivani Kumar,shivani103@example.com,Hyderabad,Telangana,2026-05-01
+C104,Shreya Rao,shreya104@example.com,Mangalore,Karnataka,2026-05-12
+C105,Siddharth Patel,siddharth105@example.com,Delhi,Delhi,2026-05-23
+C106,Sneha Verma,sneha106@example.com,Warangal,Telangana,2026-06-03
+C107,Srinivas Singh,srinivas107@example.com,Chennai,Tamil Nadu,2026-06-14
+C108,Swathi Naidu,swathi108@example.com,Gurugram,Haryana,2026-06-25
+C109,Tarun Iyer,tarun109@example.com,Karimnagar,Telangana,2026-07-06
+C110,Tejas Das,tejas110@example.com,Coimbatore,Tamil Nadu,2026-07-17
+C111,Uday Reddy,uday111@example.com,Kochi,Kerala,2026-07-28
+C112,Vaishnavi Sharma,vaishnavi112@example.com,Nizamabad,Telangana,2026-08-08
+C113,Varun Kumar,varun113@example.com,Vijayawada,Andhra Pradesh,2026-08-19
+C114,Venkatesh Rao,venkatesh114@example.com,Jaipur,Rajasthan,2026-08-30
+C115,Vijay Patel,vijay115@example.com,Khammam,Telangana,2026-09-10
+C116,Vikram Verma,vikram116@example.com,Visakhapatnam,Andhra Pradesh,2026-09-21
+C117,Vinay Singh,vinay117@example.com,Ahmedabad,Gujarat,2026-10-02
+C118,Yash Naidu,yash118@example.com,Bangalore,Karnataka,2026-10-13
+C119,Zoya Iyer,zoya119@example.com,Pune,Maharashtra,2025-01-12
+C120,Akhila Das,akhila120@example.com,Kolkata,West Bengal,2025-01-23

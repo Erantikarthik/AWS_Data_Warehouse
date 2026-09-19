@@ -1,0 +1,122 @@
+customer_sk,customer_id,customer_name,email,city,state,effective_date,expiry_date,is_current
+1,C001,Aarav Reddy,aarav001@example.com,Mysore,Karnataka,2025-01-14,2026-09-19,False
+2,C002,Aadhya Sharma,aadhya002@example.com,Mumbai,Maharashtra,2025-01-25,9999-12-31,True
+3,C003,Abhinav Kumar,abhinav003@example.com,Hyderabad,Telangana,2025-02-05,9999-12-31,True
+4,C004,Aditya Rao,aditya004@example.com,Mangalore,Karnataka,2025-02-16,9999-12-31,True
+5,C005,Akash Patel,akash005@example.com,Delhi,Delhi,2025-02-27,9999-12-31,True
+6,C006,Akshay Verma,akshay006@example.com,Warangal,Telangana,2025-03-10,9999-12-31,True
+7,C007,Ananya Singh,ananya007@example.com,Chennai,Tamil Nadu,2025-03-21,9999-12-31,True
+8,C008,Anjali Naidu,anjali008@example.com,Gurugram,Haryana,2025-04-01,9999-12-31,True
+9,C009,Arjun Iyer,arjun009@example.com,Karimnagar,Telangana,2025-04-12,9999-12-31,True
+10,C010,Arnav Das,arnav010@example.com,Coimbatore,Tamil Nadu,2025-04-23,9999-12-31,True
+11,C011,Bhavana Reddy,bhavana011@example.com,Kochi,Kerala,2025-05-04,9999-12-31,True
+12,C012,Bharat Sharma,bharat012@example.com,Nizamabad,Telangana,2025-05-15,9999-12-31,True
+13,C013,Charan Kumar,charan013@example.com,Vijayawada,Andhra Pradesh,2025-05-26,9999-12-31,True
+14,C014,Deepak Rao,deepak014@example.com,Jaipur,Rajasthan,2025-06-06,9999-12-31,True
+15,C015,Divya Patel,divya015@example.com,Khammam,Telangana,2025-06-17,9999-12-31,True
+16,C016,Esha Verma,esha016@example.com,Visakhapatnam,Andhra Pradesh,2025-06-28,9999-12-31,True
+17,C017,Gaurav Singh,gaurav017@example.com,Ahmedabad,Gujarat,2025-07-09,9999-12-31,True
+18,C018,Harsha Naidu,harsha018@example.com,Bangalore,Karnataka,2025-07-20,9999-12-31,True
+19,C019,Isha Iyer,isha019@example.com,Pune,Maharashtra,2025-07-31,9999-12-31,True
+20,C020,Karthik Das,karthik020@example.com,Kolkata,West Bengal,2025-08-11,9999-12-31,True
+21,C021,Keerthi Reddy,keerthi021@example.com,Mysore,Karnataka,2025-08-22,9999-12-31,True
+22,C022,Krishna Sharma,krishna022@example.com,Mumbai,Maharashtra,2025-09-02,9999-12-31,True
+23,C023,Lakshmi Kumar,lakshmi023@example.com,Hyderabad,Telangana,2025-09-13,9999-12-31,True
+24,C024,Manish Rao,manish024@example.com,Mangalore,Karnataka,2025-09-24,9999-12-31,True
+25,C025,Meghana Patel,meghana025@example.com,Delhi,Delhi,2025-10-05,9999-12-31,True
+26,C026,Mohan Verma,mohan026@example.com,Warangal,Telangana,2025-10-16,9999-12-31,True
+27,C027,Nandini Singh,nandini027@example.com,Chennai,Tamil Nadu,2025-10-27,9999-12-31,True
+28,C028,Naveen Naidu,naveen028@example.com,Gurugram,Haryana,2025-11-07,9999-12-31,True
+29,C029,Neha Iyer,neha029@example.com,Karimnagar,Telangana,2025-11-18,9999-12-31,True
+30,C030,Nikhil Das,nikhil030@example.com,Coimbatore,Tamil Nadu,2025-11-29,9999-12-31,True
+31,C031,Pooja Reddy,pooja031@example.com,Kochi,Kerala,2025-12-10,9999-12-31,True
+32,C032,Pranav Sharma,pranav032@example.com,Nizamabad,Telangana,2025-12-21,9999-12-31,True
+33,C033,Priya Kumar,priya033@example.com,Vijayawada,Andhra Pradesh,2026-01-01,9999-12-31,True
+34,C034,Rahul Rao,rahul034@example.com,Jaipur,Rajasthan,2026-01-12,9999-12-31,True
+35,C035,Raj Patel,raj035@example.com,Khammam,Telangana,2026-01-23,9999-12-31,True
+36,C036,Rakesh Verma,rakesh036@example.com,Visakhapatnam,Andhra Pradesh,2026-02-03,9999-12-31,True
+37,C037,Ravi Singh,ravi037@example.com,Ahmedabad,Gujarat,2026-02-14,9999-12-31,True
+38,C038,Rekha Naidu,rekha038@example.com,Bangalore,Karnataka,2026-02-25,9999-12-31,True
+39,C039,Rohit Iyer,rohit039@example.com,Pune,Maharashtra,2026-03-08,9999-12-31,True
+40,C040,Sai Das,sai040@example.com,Kolkata,West Bengal,2026-03-19,9999-12-31,True
+41,C041,Sandeep Reddy,sandeep041@example.com,Mysore,Karnataka,2026-03-30,9999-12-31,True
+42,C042,Sanjana Sharma,sanjana042@example.com,Mumbai,Maharashtra,2026-04-10,9999-12-31,True
+43,C043,Shivani Kumar,shivani043@example.com,Hyderabad,Telangana,2026-04-21,9999-12-31,True
+44,C044,Shreya Rao,shreya044@example.com,Mangalore,Karnataka,2026-05-02,9999-12-31,True
+45,C045,Siddharth Patel,siddharth045@example.com,Delhi,Delhi,2026-05-13,9999-12-31,True
+46,C046,Sneha Verma,sneha046@example.com,Warangal,Telangana,2026-05-24,9999-12-31,True
+47,C047,Srinivas Singh,srinivas047@example.com,Chennai,Tamil Nadu,2026-06-04,9999-12-31,True
+48,C048,Swathi Naidu,swathi048@example.com,Gurugram,Haryana,2026-06-15,9999-12-31,True
+49,C049,Tarun Iyer,tarun049@example.com,Karimnagar,Telangana,2026-06-26,9999-12-31,True
+50,C050,Tejas Das,tejas050@example.com,Coimbatore,Tamil Nadu,2026-07-07,9999-12-31,True
+51,C051,Uday Reddy,uday051@example.com,Kochi,Kerala,2026-07-18,9999-12-31,True
+52,C052,Vaishnavi Sharma,vaishnavi052@example.com,Nizamabad,Telangana,2026-07-29,9999-12-31,True
+53,C053,Varun Kumar,varun053@example.com,Vijayawada,Andhra Pradesh,2026-08-09,9999-12-31,True
+54,C054,Venkatesh Rao,venkatesh054@example.com,Jaipur,Rajasthan,2026-08-20,9999-12-31,True
+55,C055,Vijay Patel,vijay055@example.com,Khammam,Telangana,2026-08-31,9999-12-31,True
+56,C056,Vikram Verma,vikram056@example.com,Visakhapatnam,Andhra Pradesh,2026-09-11,9999-12-31,True
+57,C057,Vinay Singh,vinay057@example.com,Ahmedabad,Gujarat,2026-09-22,9999-12-31,True
+58,C058,Yash Naidu,yash058@example.com,Bangalore,Karnataka,2026-10-03,9999-12-31,True
+59,C059,Zoya Iyer,zoya059@example.com,Pune,Maharashtra,2026-10-14,9999-12-31,True
+60,C060,Akhila Das,akhila060@example.com,Kolkata,West Bengal,2025-01-13,9999-12-31,True
+61,C061,Aarav Reddy,aarav061@example.com,Mysore,Karnataka,2025-01-24,9999-12-31,True
+62,C062,Aadhya Sharma,aadhya062@example.com,Mumbai,Maharashtra,2025-02-04,9999-12-31,True
+63,C063,Abhinav Kumar,abhinav063@example.com,Hyderabad,Telangana,2025-02-15,9999-12-31,True
+64,C064,Aditya Rao,aditya064@example.com,Mangalore,Karnataka,2025-02-26,9999-12-31,True
+65,C065,Akash Patel,akash065@example.com,Delhi,Delhi,2025-03-09,9999-12-31,True
+66,C066,Akshay Verma,akshay066@example.com,Warangal,Telangana,2025-03-20,9999-12-31,True
+67,C067,Ananya Singh,ananya067@example.com,Chennai,Tamil Nadu,2025-03-31,9999-12-31,True
+68,C068,Anjali Naidu,anjali068@example.com,Gurugram,Haryana,2025-04-11,9999-12-31,True
+69,C069,Arjun Iyer,arjun069@example.com,Karimnagar,Telangana,2025-04-22,9999-12-31,True
+70,C070,Arnav Das,arnav070@example.com,Coimbatore,Tamil Nadu,2025-05-03,9999-12-31,True
+71,C071,Bhavana Reddy,bhavana071@example.com,Kochi,Kerala,2025-05-14,9999-12-31,True
+72,C072,Bharat Sharma,bharat072@example.com,Nizamabad,Telangana,2025-05-25,9999-12-31,True
+73,C073,Charan Kumar,charan073@example.com,Vijayawada,Andhra Pradesh,2025-06-05,9999-12-31,True
+74,C074,Deepak Rao,deepak074@example.com,Jaipur,Rajasthan,2025-06-16,9999-12-31,True
+75,C075,Divya Patel,divya075@example.com,Khammam,Telangana,2025-06-27,9999-12-31,True
+76,C076,Esha Verma,esha076@example.com,Visakhapatnam,Andhra Pradesh,2025-07-08,9999-12-31,True
+77,C077,Gaurav Singh,gaurav077@example.com,Ahmedabad,Gujarat,2025-07-19,9999-12-31,True
+78,C078,Harsha Naidu,harsha078@example.com,Bangalore,Karnataka,2025-07-30,9999-12-31,True
+79,C079,Isha Iyer,isha079@example.com,Pune,Maharashtra,2025-08-10,9999-12-31,True
+80,C080,Karthik Das,karthik080@example.com,Kolkata,West Bengal,2025-08-21,9999-12-31,True
+81,C081,Keerthi Reddy,keerthi081@example.com,Mysore,Karnataka,2025-09-01,9999-12-31,True
+82,C082,Krishna Sharma,krishna082@example.com,Mumbai,Maharashtra,2025-09-12,9999-12-31,True
+83,C083,Lakshmi Kumar,lakshmi083@example.com,Hyderabad,Telangana,2025-09-23,9999-12-31,True
+84,C084,Manish Rao,manish084@example.com,Mangalore,Karnataka,2025-10-04,9999-12-31,True
+85,C085,Meghana Patel,meghana085@example.com,Delhi,Delhi,2025-10-15,9999-12-31,True
+86,C086,Mohan Verma,mohan086@example.com,Warangal,Telangana,2025-10-26,9999-12-31,True
+87,C087,Nandini Singh,nandini087@example.com,Chennai,Tamil Nadu,2025-11-06,9999-12-31,True
+88,C088,Naveen Naidu,naveen088@example.com,Gurugram,Haryana,2025-11-17,9999-12-31,True
+89,C089,Neha Iyer,neha089@example.com,Karimnagar,Telangana,2025-11-28,9999-12-31,True
+90,C090,Nikhil Das,nikhil090@example.com,Coimbatore,Tamil Nadu,2025-12-09,9999-12-31,True
+91,C091,Pooja Reddy,pooja091@example.com,Kochi,Kerala,2025-12-20,9999-12-31,True
+92,C092,Pranav Sharma,pranav092@example.com,Nizamabad,Telangana,2025-12-31,9999-12-31,True
+93,C093,Priya Kumar,priya093@example.com,Vijayawada,Andhra Pradesh,2026-01-11,9999-12-31,True
+94,C094,Rahul Rao,rahul094@example.com,Jaipur,Rajasthan,2026-01-22,9999-12-31,True
+95,C095,Raj Patel,raj095@example.com,Khammam,Telangana,2026-02-02,9999-12-31,True
+96,C096,Rakesh Verma,rakesh096@example.com,Visakhapatnam,Andhra Pradesh,2026-02-13,9999-12-31,True
+97,C097,Ravi Singh,ravi097@example.com,Ahmedabad,Gujarat,2026-02-24,9999-12-31,True
+98,C098,Rekha Naidu,rekha098@example.com,Bangalore,Karnataka,2026-03-07,9999-12-31,True
+99,C099,Rohit Iyer,rohit099@example.com,Pune,Maharashtra,2026-03-18,9999-12-31,True
+100,C100,Sai Das,sai100@example.com,Kolkata,West Bengal,2026-03-29,9999-12-31,True
+101,C101,Sandeep Reddy,sandeep101@example.com,Mysore,Karnataka,2026-04-09,9999-12-31,True
+102,C102,Sanjana Sharma,sanjana102@example.com,Mumbai,Maharashtra,2026-04-20,9999-12-31,True
+103,C103,Shivani Kumar,shivani103@example.com,Hyderabad,Telangana,2026-05-01,9999-12-31,True
+104,C104,Shreya Rao,shreya104@example.com,Mangalore,Karnataka,2026-05-12,9999-12-31,True
+105,C105,Siddharth Patel,siddharth105@example.com,Delhi,Delhi,2026-05-23,9999-12-31,True
+106,C106,Sneha Verma,sneha106@example.com,Warangal,Telangana,2026-06-03,9999-12-31,True
+107,C107,Srinivas Singh,srinivas107@example.com,Chennai,Tamil Nadu,2026-06-14,9999-12-31,True
+108,C108,Swathi Naidu,swathi108@example.com,Gurugram,Haryana,2026-06-25,9999-12-31,True
+109,C109,Tarun Iyer,tarun109@example.com,Karimnagar,Telangana,2026-07-06,9999-12-31,True
+110,C110,Tejas Das,tejas110@example.com,Coimbatore,Tamil Nadu,2026-07-17,9999-12-31,True
+111,C111,Uday Reddy,uday111@example.com,Kochi,Kerala,2026-07-28,9999-12-31,True
+112,C112,Vaishnavi Sharma,vaishnavi112@example.com,Nizamabad,Telangana,2026-08-08,9999-12-31,True
+113,C113,Varun Kumar,varun113@example.com,Vijayawada,Andhra Pradesh,2026-08-19,9999-12-31,True
+114,C114,Venkatesh Rao,venkatesh114@example.com,Jaipur,Rajasthan,2026-08-30,9999-12-31,True
+115,C115,Vijay Patel,vijay115@example.com,Khammam,Telangana,2026-09-10,9999-12-31,True
+116,C116,Vikram Verma,vikram116@example.com,Visakhapatnam,Andhra Pradesh,2026-09-21,9999-12-31,True
+117,C117,Vinay Singh,vinay117@example.com,Ahmedabad,Gujarat,2026-10-02,9999-12-31,True
+118,C118,Yash Naidu,yash118@example.com,Bangalore,Karnataka,2026-10-13,9999-12-31,True
+119,C119,Zoya Iyer,zoya119@example.com,Pune,Maharashtra,2025-01-12,9999-12-31,True
+120,C120,Akhila Das,akhila120@example.com,Kolkata,West Bengal,2025-01-23,9999-12-31,True
+121,C001,Aarav Reddy,aarav001@example.com,Bangalore,Karnataka,2026-09-19,9999-12-31,True
